@@ -1,0 +1,11 @@
+{
+  "name": "etc~browserslist",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": [
+    ">= 0.5%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
